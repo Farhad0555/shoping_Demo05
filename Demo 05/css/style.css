@@ -1,0 +1,16 @@
+body {
+    background-image: url('../images/bgone.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.paste{
+    background-color:  rgb(110, 179, 179);
+}
+.img-top-right-rounded {
+    border-top-right-radius: 100px;
+    width: 80%;
+    height: 500px;
+    
+}
